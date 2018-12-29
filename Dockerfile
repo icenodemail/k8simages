@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/pause-amd64:3.1
+FROM gcr.io/google-containers/k8s-dns-kube-dns-arm64:1.15.0
